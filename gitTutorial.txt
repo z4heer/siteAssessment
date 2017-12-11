@@ -7,3 +7,8 @@ $ git config --global user.email rihazs@gmail.com
 
 ls
 cd folder
+-- $ git add gitTutorial.txt
+
+-- $ git commit -m "my changes"
+-- $ git remote -v
+
