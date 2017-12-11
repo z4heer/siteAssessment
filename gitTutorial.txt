@@ -11,4 +11,5 @@ cd folder
 
 -- $ git commit -m "my changes"
 -- $ git remote -v
+-- $ git push -u origin master
 
