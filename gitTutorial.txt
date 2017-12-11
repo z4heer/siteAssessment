@@ -1,0 +1,9 @@
+Git Tutorial
+
+-- install git
+-- create new repository
+-- $ git config --global user.name "z4heer"
+$ git config --global user.email rihazs@gmail.com
+
+ls
+cd folder
